@@ -1,0 +1,15 @@
+C:\Users\Humera\source\repos\UsingSwitchCase\UsingSwitchCase\bin\Debug\net6.0\UsingSwitchCase.exe
+C:\Users\Humera\source\repos\UsingSwitchCase\UsingSwitchCase\bin\Debug\net6.0\UsingSwitchCase.deps.json
+C:\Users\Humera\source\repos\UsingSwitchCase\UsingSwitchCase\bin\Debug\net6.0\UsingSwitchCase.runtimeconfig.json
+C:\Users\Humera\source\repos\UsingSwitchCase\UsingSwitchCase\bin\Debug\net6.0\UsingSwitchCase.dll
+C:\Users\Humera\source\repos\UsingSwitchCase\UsingSwitchCase\bin\Debug\net6.0\UsingSwitchCase.pdb
+C:\Users\Humera\source\repos\UsingSwitchCase\UsingSwitchCase\obj\Debug\net6.0\UsingSwitchCase.csproj.AssemblyReference.cache
+C:\Users\Humera\source\repos\UsingSwitchCase\UsingSwitchCase\obj\Debug\net6.0\UsingSwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Humera\source\repos\UsingSwitchCase\UsingSwitchCase\obj\Debug\net6.0\UsingSwitchCase.AssemblyInfoInputs.cache
+C:\Users\Humera\source\repos\UsingSwitchCase\UsingSwitchCase\obj\Debug\net6.0\UsingSwitchCase.AssemblyInfo.cs
+C:\Users\Humera\source\repos\UsingSwitchCase\UsingSwitchCase\obj\Debug\net6.0\UsingSwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\Humera\source\repos\UsingSwitchCase\UsingSwitchCase\obj\Debug\net6.0\UsingSwitchCase.dll
+C:\Users\Humera\source\repos\UsingSwitchCase\UsingSwitchCase\obj\Debug\net6.0\refint\UsingSwitchCase.dll
+C:\Users\Humera\source\repos\UsingSwitchCase\UsingSwitchCase\obj\Debug\net6.0\UsingSwitchCase.pdb
+C:\Users\Humera\source\repos\UsingSwitchCase\UsingSwitchCase\obj\Debug\net6.0\UsingSwitchCase.genruntimeconfig.cache
+C:\Users\Humera\source\repos\UsingSwitchCase\UsingSwitchCase\obj\Debug\net6.0\ref\UsingSwitchCase.dll
